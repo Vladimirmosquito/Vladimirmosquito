@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vladimirmosquito
-- 👀 I’m interested in developing crazy and beatiful things on C++
+- 👀 I’m interested in developing crazy and beautiful things on C++
 - 🌱 I’m currently learning Boost library and Multithreading
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: My telegram @motherigomid
